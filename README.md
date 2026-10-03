@@ -183,11 +183,3 @@ This project is licensed under the MIT License.
 - [Kaggle](https://www.kaggle.com/) - Dataset source
 - [PyTorch](https://pytorch.org/) - Deep learning framework
 
-## 📧 Contact
-
-**Project Link**: [https://github.com/sujith1546/drone-detection-yolo](https://github.com/sujith1546/drone-detection-yolo)
-
----
-
-⭐ **If you find this project helpful, please star the repository!**
-```
